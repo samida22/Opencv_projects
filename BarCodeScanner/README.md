@@ -1,3 +1,4 @@
+
 # BarCode QRcode Scanner using Pyzbar in python
 ## consists of two files for reading video frame and for image.
 ### 1. from Image we can do:
